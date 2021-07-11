@@ -1,6 +1,6 @@
 .. _rstwebsiteanswers:
 
-
+###############################################
 Navigating the HPO Website: Hints and Solutions
 ###############################################
 
