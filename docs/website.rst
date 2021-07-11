@@ -1,5 +1,6 @@
 .. _rstwebsite:
 
+##########################
 Navigating the HPO Website
 ##########################
 

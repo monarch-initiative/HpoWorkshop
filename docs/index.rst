@@ -15,7 +15,7 @@ HPOannotQC
 
     introduction
     website 
-    annotationFormat
+    phenomizer
 
 
 
