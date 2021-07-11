@@ -17,6 +17,7 @@ HPOannotQC
     website 
     phenomizer
     choosing-terms
+    exomiser
 
 
 
