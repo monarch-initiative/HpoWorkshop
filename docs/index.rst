@@ -16,6 +16,7 @@ HPOannotQC
     introduction
     website 
     phenomizer
+    choosing-terms
 
 
 
