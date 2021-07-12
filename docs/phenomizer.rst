@@ -75,6 +75,6 @@ Wrap-up
 #######
 
 In this module, you have gotten familiar with the Phenomizer and the basics of HPO-based semantic similarity analysis for differential 
-diagnostic support.. 
+diagnostic support.
 
 If you had trouble with any of the exercises, see :ref:`rstphenomizeranswers`.

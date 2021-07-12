@@ -18,6 +18,7 @@ HPOannotQC
     phenomizer
     choosing-terms
     exomiser
+    xspecies
 
 
 
