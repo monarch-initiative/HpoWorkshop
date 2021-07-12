@@ -61,13 +61,6 @@ For this, let's use the Phenogrid tool of the Monarch Initiative.
 
 
 
-Exercise 3
-^^^^^^^^^^
-
-* What are the tissues in which *PTPN11* shows expression in more than one species?
-
-
-
 Wrap-up
 #######
 
