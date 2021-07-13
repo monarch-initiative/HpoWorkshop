@@ -15,13 +15,13 @@ There are three major methodologies to identify phenotypes in the mouse that are
 * **(C)** Direct phenotype mapping. Given the phenotype(s) that describe a human disease, the corresponding phenotypes in mouse are inferred by means of computational reasoning using interspecies phenotype ontology analysis. In the example shown, the HPO term `Aortic stenosis <https://hpo.jax.org/app/browse/term/HP:0001650>`_ is defined on the basis of the PATO term `constricted <https://www.ebi.ac.uk/ols/ontologies/pato/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FPATO_0001847>`_ and `aortic valve <https://www.ebi.ac.uk/ols/ontologies/uberon/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FUBERON_0002137>`_  from the cross-species anatomy ontology UBERON. Similarly, the MPO term `aortic valve stenosis <http://www.informatics.jax.org/vocab/mp_ontology/MP:0006117>`_ is defined using the same PATO term constricted and aortic valve. Automatic reasoning therefore places the HPO term Aortic stenosis and the MPO term aortic valve stenosis in the direct vicinity of one another in a cross-species phenotype ontology.
 
 
-Monarch-Initiative
+Monarch Initiative
 ##################
 
-s. The `Monarch Initiative <https://monarchinitiative.org>`_ integrates information on genes, variants, genotypes, phenotypes and diseases in a variety of species, and allows powerful ontology-based search.  
+The `Monarch Initiative <https://monarchinitiative.org>`_ integrates information on genes, variants, genotypes, phenotypes and diseases in a variety of species, and allows powerful ontology-based search.  
 [Shefchek KA, et al, Nucleic Acids Res. 2020  `PMID:31701156 <https://pubmed.ncbi.nlm.nih.gov/31701156/>`_]. In this exercise, we will explore how to 
 use the Monarch Web app to explore the cross-species inference algorithms that are used in the Exomiser tool. The following Figure summarizes the 
-cross species-matching approach'; for more details, please consult the Shefchek et al. paper.
+cross species-matching approach; for more details, please consult the Shefchek et al. paper.
 
 
 
@@ -29,8 +29,7 @@ cross species-matching approach'; for more details, please consult the Shefchek 
   :width: 500
   :alt: Cross-species phenotype matching approach
 
-  Computable definitions specified using uPheno templates are used to automate classification of uPheno and parts of the Zebrafish Phenotype Ontology (ZP (13); dashed lines). (B). Computable definitions also drive automated classification of HPO and ZP classes under uPheno classes. For example, enlarged heart in ZP (defined using the zebrafish anatomy heart term) and enlarged heart in HPO are both classified under uPheno enlarged heart (defined using Uberon heart). Algorithms can use this classification under uPheno to predict that human orthologs of zebrafish genes annotated to enlarged heart may cause enlarged heart in humans.
-  uPheno template-driven ontology development and harmonization. uPheno templates are used to define phenotypes according to agreed upon design patterns. (A). Computable definitions specified using uPheno templates are used to automate classification of uPheno and parts of the Zebrafish Phenotype Ontology (ZP (13); dashed lines). (B). Computable definitions also drive automated classification of HPO and ZP classes under uPheno classes. For example, enlarged heart in ZP (defined using the zebrafish anatomy heart term) and enlarged heart in HPO are both classified under uPheno enlarged heart (defined using Uberon heart). Algorithms can use this classification under uPheno to predict that human orthologs of zebrafish genes annotated to enlarged heart may cause enlarged heart in humans.
+  uPheno template-driven ontology development and harmonization. uPheno templates are used to define phenotypes according to agreed upon design patterns. (A). Computable definitions specified using uPheno templates are used to automate classification of uPheno and parts of the Zebrafish Phenotype Ontology (ZP; dashed lines). (B). Computable definitions also drive automated classification of HPO and ZP classes under uPheno classes. For example, enlarged heart in ZP (defined using the zebrafish anatomy heart term) and enlarged heart in HPO are both classified under uPheno enlarged heart (defined using Uberon heart). Algorithms can use this classification under uPheno to predict that human orthologs of zebrafish genes annotated to enlarged heart may cause enlarged heart in humans.
   
 Exercise 1
 ^^^^^^^^^^
@@ -39,7 +38,7 @@ The Alliance of Genome Resources (AGR) is a consortium of the major model organi
 The AGR and Monarch Initiative websites offer good portals for exploring cross-species phenotype data. For these exercises, we will explore the 
 AGR pages related to `Noonan syndrome 1 <https://omim.org/entry/163950>`_, which is caused by deleterious variants in the *PTPN11* gene.
 
-Go to the corresponding `PTPN11 page <https://www.alliancegenome.org/gene/HGNC:9644>`_. Answer the following questions
+Go to the corresponding `PTPN11 page <https://www.alliancegenome.org/gene/HGNC:9644>`_. Answer the following question:
 
 * How many human diseases are associated with mutation in *PTPN11*? (Feel free to work with another gene of your choice).
 
