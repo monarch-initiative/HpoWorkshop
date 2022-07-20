@@ -24,11 +24,15 @@ and innovations. For this workshop, we recommend skimming the 2021 manuscript.
 Scope of the HPO
 ################
 
-The HPO was initially developed for the analysis of Mendelian disease. Subsequently, the HPO has been used in a number of other contexts.  The following two papers discuss an extension
-of the HPO to analyze common (complex) disease and an application of the HPO for leverage EHR-encoded laboratory data to search for biomarkers in asthma.
+The HPO was initially developed for the analysis of Mendelian disease. Subsequently, the HPO 
+has been used in a number of other contexts.  The following papers discuss an extension
+of the HPO to analyze common (complex) disease, an application of the HPO for leverage EHR-encoded 
+laboratory data to search for biomarkers in asthma, and a method for using semantic clustering to characterize
+subtypes of long COVID.
 
 * Groza T et al (2014) The Human Phenotype Ontology: Semantic Unification of Common and Rare Disease. Am J Hum Genet. 2015 Jul 2;97(1):111-24. [`PMID:26119816 <https://pubmed.ncbi.nlm.nih.gov/26119816/>`_]
 * Zhang XA et al (2019) Semantic integration of clinical laboratory tests from electronic health records for deep phenotyping and biomarker discovery. NPJ Digit Med;2:32. [`PMID:31119199 <https://pubmed.ncbi.nlm.nih.gov/31119199/>`_]
+* Reese JT et al (2022) Generalizable Long COVID Subtypes: Findings from the NIH N3C and RECOVER Programs [`medRxiv <https://www.medrxiv.org/content/10.1101/2022.05.24.22275398v1>`_]
 
 Translations and Plain-language HPO
 ###################################
@@ -54,4 +58,5 @@ activity is summarized in the Nucleic Acids Research database articles listed ab
 * Haimel M (2021) Curation and expansion of Human Phenotype Ontology for defined groups of inborn errors of immunity. J Allergy Clin Immunol:S0091-6749(21)00732-6 [`PMID:33991581 <https://pubmed.ncbi.nlm.nih.gov/33991581/>`_]
 * Lewis-Smith D (2021). Modeling seizures in the Human Phenotype Ontology according to contemporary ILAE concepts makes big phenotypic data tractable. Epilepsia;62(6):1293-1305 [`PMID:33949685 <https://pubmed.ncbi.nlm.nih.gov/33949685/>`_]
 
-Additional hackathons of this nature are planned over the next five years. Interested groups are invited to contact us for more information.
+Additional hackathons of this nature are planned over the next five years with support from the
+`NHGRI <https://reporter.nih.gov/search/tIP3PMYDMkOpJpSMRIn66w/project-details/10269338>`_. Interested groups are invited to contact us for more information.

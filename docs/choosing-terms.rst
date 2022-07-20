@@ -15,8 +15,7 @@ Exercise 1
 ^^^^^^^^^^
 
 This exercise may be difficult for those without medical training. We will extract a list of HPO terms from 
-
-a published case report about an individual with X-linked Megalocornea 
+a published case report about an individual with `X-linked Megalocornea <https://www.omim.org/entry/309300>`_.
 
 * Han J, et al (2015) X-linked Megalocornea Associated with the Novel CHRDL1 Gene Mutation p.(Pro56Leu*8). Ophthalmic Genet.;36(2):145-8 [`PMID:24073597 <https://pubmed.ncbi.nlm.nih.gov/24073597/>`_]
 
@@ -34,7 +33,7 @@ In practice, many people will use text mining approaches to help identify HPO te
 
 Try this tool to do the text mining.
 
-* `doc2hpo <https://impact2.dbmi.columbia.edu/doc2hpo/index.jsp>`_ 
+* `doc2hpo <https://doc2hpo.wglab.org/>`_ 
 
 doc2hpo has a nice online tutoral with more information about how to use the tool.
 
